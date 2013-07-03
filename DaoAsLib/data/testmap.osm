@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <bounds minlat='-9.663499999999999' minlon='-35.71078' maxlat='-9.662173' maxlon='-35.708445999999995' origin='CGImap 0.0.2' />
+  <node id='430584726' timestamp='2010-01-06T13:56:03Z' uid='81933' user='marcioaguiar' visible='true' version='2' changeset='3553047' lat='-9.662091' lon='-35.7060798' />
+  <node id='430584735' timestamp='2010-01-18T02:09:50Z' uid='81933' user='marcioaguiar' visible='true' version='3' changeset='3647549' lat='-9.6628793' lon='-35.69604' />
+  <node id='430584737' timestamp='2009-06-29T06:24:24Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='1673064' lat='-9.6618649' lon='-35.7000188' />
+  <node id='430584739' timestamp='2009-06-29T06:24:24Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='1673064' lat='-9.6613911' lon='-35.7030915' />
+  <node id='430584741' timestamp='2010-01-19T20:14:01Z' uid='81933' user='marcioaguiar' visible='true' version='2' changeset='3661814' lat='-9.6613759' lon='-35.7056902' />
+  <node id='430584742' timestamp='2010-01-19T20:14:01Z' uid='81933' user='marcioaguiar' visible='true' version='2' changeset='3661814' lat='-9.6614402' lon='-35.7062195' />
+  <node id='430944097' timestamp='2009-06-29T21:34:02Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='1682393' lat='-9.6604689' lon='-35.7110134' />
+  <node id='430944105' timestamp='2009-06-29T21:34:02Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='1682393' lat='-9.6589473' lon='-35.70952' />
+  <node id='430944115' timestamp='2009-06-29T21:34:02Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='1682393' lat='-9.6629142' lon='-35.7086016' />
+  <node id='430944118' timestamp='2009-06-29T21:34:02Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='1682393' lat='-9.6617131' lon='-35.7090404' />
+  <node id='430944120' timestamp='2009-06-29T21:34:03Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='1682393' lat='-9.6604943' lon='-35.7094857' />
+  <node id='430944130' timestamp='2010-01-29T04:01:53Z' uid='81933' user='marcioaguiar' visible='true' version='2' changeset='3740677' lat='-9.6628379' lon='-35.7102557' />
+  <node id='430944133' timestamp='2009-06-29T21:34:03Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='1682393' lat='-9.6630496' lon='-35.7105929' />
+  <node id='430944136' timestamp='2009-06-29T21:34:03Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='1682393' lat='-9.6636419' lon='-35.7113825' />
+  <node id='430944139' timestamp='2010-01-19T20:14:01Z' uid='81933' user='marcioaguiar' visible='true' version='2' changeset='3661814' lat='-9.6639549' lon='-35.7117446' />
+  <node id='430944141' timestamp='2009-06-29T21:34:03Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='1682393' lat='-9.6645388' lon='-35.7123009' />
+  <node id='430944147' timestamp='2009-06-29T21:34:03Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='1682393' lat='-9.6641749' lon='-35.7109877' />
+  <node id='430944149' timestamp='2009-06-29T21:34:03Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='1682393' lat='-9.6645218' lon='-35.7113825' />
+  <node id='430944157' timestamp='2009-06-29T21:34:04Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='1682393' lat='-9.662065' lon='-35.710139' />
+  <node id='430944159' timestamp='2009-06-29T21:34:04Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='1682393' lat='-9.6608243' lon='-35.7108504' />
+  <node id='430948763' timestamp='2009-06-29T21:40:58Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='1682393' lat='-9.6668752' lon='-35.7145994' />
+  <node id='430951434' timestamp='2009-06-29T21:51:31Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='1682509' lat='-9.6611124' lon='-35.7092599' />
+  <node id='430951435' timestamp='2009-06-29T21:51:32Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='1682509' lat='-9.65956' lon='-35.7095064' />
+  <node id='430951436' timestamp='2009-06-29T21:51:32Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='1682509' lat='-9.6615064' lon='-35.7104593' />
+  <node id='430951443' timestamp='2009-06-29T21:51:33Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='1682509' lat='-9.6613336' lon='-35.7043734' />
+  <node id='430952518' timestamp='2010-01-06T13:28:28Z' uid='81933' user='marcioaguiar' visible='true' version='2' changeset='3553047' lat='-9.6616802' lon='-35.7069375' />
+  <node id='430990345' timestamp='2009-06-30T01:25:52Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='1683441' lat='-9.6685307' lon='-35.7153153' />
+  <node id='430990346' timestamp='2009-06-30T01:25:52Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='1683441' lat='-9.6680146' lon='-35.7148175' />
+  <node id='431008499' timestamp='2010-01-29T04:01:53Z' uid='81933' user='marcioaguiar' visible='true' version='2' changeset='3740677' lat='-9.6632999' lon='-35.7094575' />
+  <node id='431008500' timestamp='2010-01-29T04:01:53Z' uid='81933' user='marcioaguiar' visible='true' version='2' changeset='3740677' lat='-9.6631348' lon='-35.7095662' />
+  <node id='431008501' timestamp='2009-06-30T03:42:54Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='1683748' lat='-9.6637833' lon='-35.710638' />
+  <node id='578202681' timestamp='2009-12-02T20:00:42Z' uid='64212' user='mikeschneider' visible='true' version='1' changeset='3274965' lat='-9.662647' lon='-35.7097957' />
+  <node id='578202812' timestamp='2010-01-19T20:14:01Z' uid='81933' user='marcioaguiar' visible='true' version='2' changeset='3661814' lat='-9.6637838' lon='-35.7115532' />
+  <node id='578202821' timestamp='2009-12-02T20:00:45Z' uid='64212' user='mikeschneider' visible='true' version='1' changeset='3274965' lat='-9.6623157' lon='-35.7088203' />
+  <node id='606635338' timestamp='2010-01-06T13:56:03Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='3553047' lat='-9.6620169' lon='-35.7055863' />
+  <node id='606980981' timestamp='2010-01-06T18:43:07Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='3556104' lat='-9.6614038' lon='-35.7029739' />
+  <node id='606980986' timestamp='2010-01-06T18:43:08Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='3556104' lat='-9.6615539' lon='-35.7015889' />
+  <node id='606981001' timestamp='2010-01-06T18:43:10Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='3556104' lat='-9.6618057' lon='-35.7003122' />
+  <node id='606981007' timestamp='2010-01-06T18:43:15Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='3556104' lat='-9.662089' lon='-35.6990913' />
+  <node id='606982287' timestamp='2010-01-06T18:47:55Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='3556104' lat='-9.6623802' lon='-35.6978858' />
+  <node id='616061321' timestamp='2010-01-18T02:15:41Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='3647570' lat='-9.6673248' lon='-35.7141391' />
+  <node id='616061323' timestamp='2010-01-18T02:15:41Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='3647570' lat='-9.6657286' lon='-35.7125693' />
+  <node id='616061324' timestamp='2010-01-18T02:15:41Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='3647570' lat='-9.6652643' lon='-35.7130147' />
+  <node id='616812032' timestamp='2010-01-19T20:14:01Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='3661814' lat='-9.6627361' lon='-35.6965697' />
+  <node id='622249011' timestamp='2010-01-29T04:01:52Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='3740677' lat='-9.6630922' lon='-35.7090507' />
+  <node id='622249012' action='delete' timestamp='2010-01-29T04:01:52Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='3740677' lat='-9.662672' lon='-35.7097097' />
+  <node id='622249013' action='delete' timestamp='2010-01-29T04:01:52Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='3740677' lat='-9.6632167' lon='-35.7094611' />
+  <node id='622249014' action='delete' timestamp='2010-01-29T04:01:52Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='3740677' lat='-9.662886' lon='-35.7087113' />
+  <node id='622249015' action='delete' timestamp='2010-01-29T04:01:53Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='3740677' lat='-9.6623763' lon='-35.7088731' />
+  <node id='625646129' timestamp='2010-02-01T14:22:00Z' uid='221989' user='wct' visible='true' version='1' changeset='3767994' lat='-9.6601628' lon='-35.709493' />
+ 
+ 
+  <way id='37022687' timestamp='2010-02-01T14:22:01Z' uid='221989' user='wct' visible='true' version='8' changeset='3767994'>
+    <nd ref='430990345' />
+    <nd ref='430990346' />
+    <nd ref='616061321' />
+    <nd ref='616061323' />
+    <nd ref='430944149' />
+    <nd ref='430944147' />
+    <nd ref='431008499' />
+    <nd ref='622249011' />
+    <nd ref='430944115' />
+    <nd ref='430584726' />
+    <nd ref='606635338' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='Rua Jangadeiros Alagoanos' />
+  </way>
+  <way id='37054565' action='modify' timestamp='2010-02-01T15:37:50Z' uid='81933' user='marcioaguiar' visible='true' version='8' changeset='3768543'>
+    <nd ref='431008499' />
+    <nd ref='431008500' />
+    <nd ref='578202681' />
+    <nd ref='430944157' />
+    <nd ref='430951436' />
+    <nd ref='430944159' />
+    <nd ref='430944097' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='Jl.A' />
+  </way>
+  <way id='37054569' timestamp='2010-02-01T14:22:01Z' uid='221989' user='wct' visible='true' version='10' changeset='3767994'>
+    <nd ref='430584735' />
+    <nd ref='616812032' />
+    <nd ref='606982287' />
+    <nd ref='606981007' />
+    <nd ref='430584737' />
+    <nd ref='606981001' />
+    <nd ref='606980986' />
+    <nd ref='606980981' />
+    <nd ref='430584739' />
+    <nd ref='430951443' />
+    <nd ref='430584741' />
+    <nd ref='430584742' />
+    <nd ref='430952518' />
+    <nd ref='578202821' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Rua Durval Guimarães' />
+  </way>
+  <way id='37060075' action='modify' timestamp='2009-06-30T03:42:54Z' uid='81933' user='marcioaguiar' visible='true' version='1' changeset='1683748'>
+    <nd ref='430944147' />
+    <nd ref='431008501' />
+    <nd ref='431008500' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='Jl.SatuArah' />
+  </way>
+  <way id='47676716' timestamp='2010-02-01T14:22:05Z' uid='221989' user='wct' visible='true' version='3' changeset='3767994'>
+    <nd ref='430944115' />
+    <nd ref='578202821' />
+    <nd ref='430944118' />
+    <nd ref='430951434' />
+    <nd ref='430944120' />
+    <nd ref='625646129' />
+    <nd ref='430951435' />
+    <nd ref='430944105' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Rua João Gualberto P do Carmo' />
+  </way>
+  <way id='47676719' timestamp='2010-01-18T02:15:47Z' uid='81933' user='marcioaguiar' visible='true' version='3' changeset='3647570'>
+    <nd ref='578202821' />
+    <nd ref='578202681' />
+    <nd ref='430944130' />
+    <nd ref='430944133' />
+    <nd ref='430944136' />
+    <nd ref='578202812' />
+    <nd ref='430944139' />
+    <nd ref='430944141' />
+    <nd ref='616061324' />
+    <nd ref='430948763' />
+    <tag k='alt_name' v='R3' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Rua Quintino Bocaiúva' />
+  </way>
+ 
+  
+</osm>
